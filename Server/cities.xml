@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<City>
+		<CountryName>Ukraine</CountryName>
+		<CityName>Rivne</CityName>
+	</City>
+	<City>
+		<CountryName>Ukraine</CountryName>
+		<CityName>Kyiv</CityName>
+	</City>
+	<City>
+		<CountryName>Great Britain</CountryName>
+		<CityName>London</CityName>
+	</City>
+	<City>
+		<CountryName>Great Britain</CountryName>
+		<CityName>Manchester</CityName>
+	</City>
+	<City>
+		<CountryName>USA</CountryName>
+		<CityName>New York</CityName>
+	</City>
+	<City>
+		<CountryName>USA</CountryName>
+		<CityName>Las Vegas</CityName>
+	</City>
+	<City>
+		<CountryName>Poland</CountryName>
+		<CityName>Warsaw</CityName>
+	</City>
+	<City>
+		<CountryName>Poland</CountryName>
+		<CityName>Krakow</CityName>
+	</City>
+	<City>
+		<CountryName>France</CountryName>
+		<CityName>Paris</CityName>
+	</City>
+	<City>
+		<CountryName>France</CountryName>
+		<CityName>Lion</CityName>
+	</City>
+</ArrayOfCity>
